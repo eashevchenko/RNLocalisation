@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, Button } from 'react-native'
 import I18n from 'react-native-i18n'
 
 export default class SecondView extends React.Component {
+
   render() {
     return (
       <View style={styles.container}>
